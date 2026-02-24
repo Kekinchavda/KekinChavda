@@ -43,27 +43,6 @@ I enjoy building scalable, secure, and high-performance web applications with cl
 - Open-source tools solving real business problems  
 
 ---
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/kekin-chavda" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         title="LinkedIn" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kekin_chavda" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         title="Instagram" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linktr.ee/kekinchavda" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linktree.svg"
-         title="Linktree" width="45"/>
-  </a>
-</p>
-
-
----
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
